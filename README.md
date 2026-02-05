@@ -26,6 +26,7 @@ O projeto tem como objetivo praticar conceitos de **manipulação de tempo**, **
   - `playsound` ou `pygame`
 
 ---
+<img width="412" height="245" alt="alarme pythonico" src="https://github.com/user-attachments/assets/f7a74b53-85aa-43aa-92c6-95ab5cb624b6" />
 
 ## 📂 Estrutura do Projeto
 
@@ -38,5 +39,4 @@ alarme-python/
 ├── README.md           # Documentação do projeto
 └── requirements.txt    # Dependências do projeto
 
-<img width="412" height="245" alt="alarme pythonico" src="https://github.com/user-attachments/assets/f7a74b53-85aa-43aa-92c6-95ab5cb624b6" />
 
